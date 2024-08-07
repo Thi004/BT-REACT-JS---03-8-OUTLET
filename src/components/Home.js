@@ -1,5 +1,5 @@
-import {Link, Outlet, useLocation} from "react-router-dom";
-
+import {Link, Outlet} from "react-router-dom";
+import '../Style/Home.css';
 function Home() {
 
     return (
